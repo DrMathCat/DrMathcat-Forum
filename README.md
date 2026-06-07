@@ -1,9 +1,13 @@
 # DrMathcat-Forum
 Hello, I'm Dr. MathCat, the host of DrMathCat community — a discussion space 
 for the [DrMathcat YouTube channel](https://www.youtube.com/@drmathcat). I have a PhD in mathematics.. I want to share all the exciting math with you.
+
 My blog: https://drmathcat.com/
+
 My X: https://x.com/DrMathCat
+
 My store: https://payhip.com/drmathcat
+
 Email Subscribe to new videos : https://follow.it/drmathcat?action=followPub
 
 ## What is this?
